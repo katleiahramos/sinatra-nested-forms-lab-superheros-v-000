@@ -7,4 +7,5 @@ class Hero
     @bio = args[:bio]
   end
 
+  
 end
